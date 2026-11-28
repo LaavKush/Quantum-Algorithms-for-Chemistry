@@ -27,9 +27,6 @@
 
 This repository provides a structured experimental workspace built around **Qiskit**. The current top-level scripts focus on preparing and simulating foundational quantum circuits, inspecting statevectors and shot-based measurement counts, transpiling circuits to target gate sets, and interfacing with the IBM Quantum Platform.
 
-> [!NOTE]
-> **Project Status:** The scripts currently checked into this repository demonstrate foundational Qiskit workflows (Bell-state preparation, Aer simulation, transpilation, and IBM Runtime execution). **Quantum-chemistry algorithms**—such as Variational Quantum Eigensolver (VQE), Quantum Phase Estimation (QPE), or molecular ground-state energy estimation—represent the long-term research direction outlined in the [Roadmap](#development-roadmap) and are not yet implemented.
-
 ---
 
 ## Architecture & Scope
